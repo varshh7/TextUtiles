@@ -1,8 +1,8 @@
 {
-  "name": "myreactapp",
+  "name": "textutiles",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://varshh7.github.io/TextUtiles",
+  "homepage": "https://varshh7.github.io/_TEXTUTILES",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
